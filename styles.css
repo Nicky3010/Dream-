@@ -1,0 +1,33 @@
+img {
+    border-radius: 30px;
+    width: 300px;
+}
+body {
+    text-align: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkorange;
+    color:black;
+
+
+}
+
+.main {
+    display: flex;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
+li {
+    padding: 10px;
+}
+
+nav h1 {
+    padding: 20px;
+}
